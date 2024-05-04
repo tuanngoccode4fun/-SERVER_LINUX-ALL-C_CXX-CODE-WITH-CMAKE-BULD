@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "z:/Full_Source_CCPlusPlus/00_C_Language/08_arithmetic_operators",
-      "program": "z:/Full_Source_CCPlusPlus/00_C_Language/08_arithmetic_operators/build/Debug/outDebug",
+      "cwd": "z:/Full_Source_CCPlusPlus/02_algorithm/00_Recursive/03_UCLN",
+      "program": "z:/Full_Source_CCPlusPlus/02_algorithm/00_Recursive/03_UCLN/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
